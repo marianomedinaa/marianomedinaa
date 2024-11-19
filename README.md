@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mariano Medina Arrojo  
+### Data Analyst | Data Scientist 
 
-<!--
-**marianomedinaa/marianomedinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Diseñador que está adentrándose en el análisis de datos.  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías  
+- **Lenguajes:** Python, SQL
+- **Herramientas:** Power BI, pandas, matplotlib, seaborn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Proyectos Destacados  
+- [**Dashboard Interactivo en Power BI**](link-a-tu-repositorio): Dashboard de ventas que analiza datos de una tienda online.  
+- [**Análisis de Campañas de Marketing**](link-a-tu-repositorio): Exploración de tasas de conversión usando Python y pandas.  
+- [**Visualización de Datos con Python**](link-a-tu-repositorio): Ejemplos de gráficos avanzados con matplotlib y seaborn.  
+
+### 📫 Conectemos  
+- [LinkedIn](https://www.linkedin.com/in/marianomedinaa)  
+- [Email](mailto:marianomedinarrojo@gmail.com)
+
+---

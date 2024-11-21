@@ -1,19 +1,24 @@
-# 👋 ¡Hola! Soy Mariano Medina Arrojo  
-### Data Analyst | Data Scientist 
+<p align="center">
+  <img alt="Mariano Medina Arrojo" src="https://raw.githubusercontent.com/marianomedinaa/marianomedinaa/refs/heads/main/portada-github.png">
+</p>
 
-Soy Diseñador que está adentrándose en el análisis de datos.  
+<p align="center">
+  <img alt="Sergie Code" src="https://raw.githubusercontent.com/marianomedinaa/marianomedinaa/refs/heads/main/Hand%20Wave.gif" width='40' align="left">
+  <h2>¡Hola a todos! Soy Mariano</h2>
+</p>
 
-### 🛠️ Tecnologías  
-- **Lenguajes:** Python, SQL
-- **Herramientas:** Power BI, pandas, matplotlib, seaborn  
+<!-- ## 👋 &nbsp;Hey everyone! I'm Sergie Code -->
 
-### 🌟 Proyectos Destacados  
-- [**Dashboard Interactivo en Power BI**](link-a-tu-repositorio): Dashboard de ventas que analiza datos de una tienda online.  
-- [**Análisis de Campañas de Marketing**](link-a-tu-repositorio): Exploración de tasas de conversión usando Python y pandas.  
-- [**Visualización de Datos con Python**](link-a-tu-repositorio): Ejemplos de gráficos avanzados con matplotlib y seaborn.  
+### 👨🏼‍💻 &nbsp;About Me
 
-### 📫 Conectemos  
-- [LinkedIn](https://www.linkedin.com/in/marianomedinaa)  
-- [Email](mailto:marianomedinarrojo@gmail.com)
+💻Soy un aspirante a Data Scientist interesado por la programación y la inteligencia artificial.
 
----
+📧Ante cualquier consulta: mairanomedinarrojo@gmail.com
+
+
+### 🔗 &nbsp;My Social Networks
+
+<p align="center">
+  <a href="https://instagram.com/marianomedinarrojo"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marianomedinaa"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+</p>

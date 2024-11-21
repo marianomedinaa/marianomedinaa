@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Mariano Medina Arrojo" src="https://raw.githubusercontent.com/marianomedinaa/marianomedinaa/refs/heads/main/portada-github.png">
+  <img alt="Mariano Medina Arrojo" src="https://raw.githubusercontent.com/marianomedinaa/marianomedinaa/blob/main/portada-github.jpg">
 </p>
 
 <p align="center">

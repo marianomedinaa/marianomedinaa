@@ -9,14 +9,14 @@
 
 <!-- ## 👋 &nbsp;Hey everyone! I'm Sergie Code -->
 
-### 👨🏼‍💻 &nbsp;About Me
+### 👨🏼‍💻 &nbsp;Sobre mi
 
 💻Soy un aspirante a Data Scientist interesado por la programación y la inteligencia artificial.
 
 📧Ante cualquier consulta: mairanomedinarrojo@gmail.com
 
 
-### 🔗 &nbsp;My Social Networks
+### 🔗 &nbsp;Mis Redes
 
 <p align="center">
   <a href="https://instagram.com/marianomedinarrojo"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"></a>

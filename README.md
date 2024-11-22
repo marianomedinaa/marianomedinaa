@@ -1,5 +1,5 @@
 <p align="center">
-  <img <a href="https://ibb.co/HDb8nMr"><img src="https://i.ibb.co/RpswzMC/portada-github.jpg" alt="portada-github" border="0" /></a>>
+  <img <a href="https://ibb.co/HDb8nMr"><img src="https://i.ibb.co/RpswzMC/portada-github.jpg" alt="portada-github" border="0" /></a>
 </p>
 
 <p align="center">
